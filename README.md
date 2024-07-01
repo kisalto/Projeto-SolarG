@@ -1,5 +1,5 @@
 # Projeto-SolarG
-Projeto desenvolvido em grupo para uma empresa de venda de paineis solares
+Projeto desenvolvido em grupo pela faculdade para uma empresa de venda de paineis solares
 
 tecnologias utilizadas:
  - html;
